@@ -62,5 +62,6 @@ public class Question10 {
 
         System.out.print("Merged Sorted List: ");
         printList(result);
+
     }
 }
